@@ -41,8 +41,8 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 
 
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudmheisen91&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ### GitHub Stats -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudmheisen91&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 <!-- ![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mahmoudmheisen91&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 <p align="middle">
