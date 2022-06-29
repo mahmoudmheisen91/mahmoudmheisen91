@@ -4,9 +4,6 @@ src="https://img.shields.io/twitter/follow/mheisen91?logo=twitter&style=for-the-
 /></a><a href="https://www.github.com/mahmoudmheisen91" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mahmoudmheisen91?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![](https://komarev.com/ghpvc/?username=mahmoudmheisen91&label=PROFILE+VIEWS)
-=====================================
-
-### Languages and Frameworks
 
 <p align="left">
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="36" height="36" alt="C++" /></a>
@@ -23,6 +20,21 @@ src="https://img.shields.io/github/followers/mahmoudmheisen91?logo=github&style=
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<hr/>
+
+<a href="mailto:mahmoudmheisen91@gmail.com" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/></a>
+<a href="https://leetcode.com/mx91/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+/></a>
+<a href="https://www.linkedin.com/in/mahmoudmheisen/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/></a>
+
+<!-- ### Languages and Frameworks -->
+
+
 
 ### GitHub Stats
 
